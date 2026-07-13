@@ -15,7 +15,8 @@ A content-based movie recommendation app built using the TMDB 5000 dataset.
 Recommends similar movies based on shared cast & director.
 
 ## 🚀 Live Demo
-[Try it here on Hugging Face Spaces](#)
+https://movierecommendations-gzpyyxqbjpto9z6z48ackr.streamlit.app/
+
 
 ## 🛠️ Tech Stack
 - Python · Pandas · Scikit-learn
